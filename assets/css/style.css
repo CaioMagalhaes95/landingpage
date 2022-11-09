@@ -1,0 +1,103 @@
+html, body{
+    margin: 0;
+    width: 100vw;
+   
+}
+
+header{
+
+
+
+}
+
+
+.nav-container ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    
+    margin-right: 350px;
+
+}
+
+.nav-container li{
+    list-style: none;
+    margin: 0 15px;
+}
+
+.nav-container li a{
+    text-decoration: none;
+    color: black;
+    transition: .5s;
+}
+
+.nav-container li a:hover{
+    color: #3381F3;
+}
+
+#logo{
+    width: 95px;
+    height: 35px;
+    margin-top: 25px;
+    margin-left: 70px;
+}
+
+.main-banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.texto{
+    font-size: 50px;
+}
+
+.search-form{
+    margin-left: 125px;
+    margin-bottom: 250px;
+}
+
+.middle{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 210px;
+    
+}
+
+#first{
+    width: 330px;
+    height: 350px;
+    display: flex;
+    align-items: center;
+    margin-top: 210px;
+    margin-right: 150px;
+}
+
+.mid-texto{
+    font-size: 40px;
+    color: #3381F3;
+    
+}
+
+.para1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+
+.h2-1{
+    margin-top: -10px;
+    margin-left: 45px;
+
+}
+
+#p1{
+    margin-top: 50px;
+    margin-left: -185px;
+    color: gray;
+}
+
